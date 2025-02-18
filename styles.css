@@ -1,5 +1,5 @@
 html {
-    color: slategray;
+    color: black;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     
     background-image: url("images/what_UP.webp");
@@ -8,7 +8,7 @@ html {
 body {
     width: 50%;
     margin: 0 auto;
-    background-color: rgba(220, 220, 220, 0.8);
+    background-color: rgba(14, 201, 218, 0.7);
     padding: 10px 50px 10px 100px;
     /* padding: TOP RIGHT BOTTOM LEFT */
 }
@@ -73,4 +73,8 @@ a:visited {
 a:hover {
     color: black;
     font-size: 15px;
+}
+
+hr {
+    color: transparent;
 }
