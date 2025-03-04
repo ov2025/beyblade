@@ -71,8 +71,8 @@ a:visited {
 }
 
 a:hover {
-    color: black;
-    font-size: 15px;
+    /* background-color: rgb(26, 187, 171); */
+    font-size: 17px;
 }
 
 hr {

@@ -34,7 +34,7 @@ const Questions = [
     {
         q: "What is Blader X's past team name?",
         a: [{text: "Team Persona", isCorrect: false},
-            {text: "Team Ygsgdrassil", isCorrect: false},
+            {text: "Team Yggdrassil", isCorrect: false},
             {text: "Team Pendragon", isCorrect: true},
             {text: "Team Zodiac", isCorrect: false},
            ]
