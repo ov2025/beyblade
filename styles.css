@@ -65,10 +65,11 @@ a {
 
 a:link {
     color: blue;
+    background-color: black;
 }
 
 a:visited {
-    color: red;
+    color: blue;
 }
 
 a:hover {

@@ -32,11 +32,19 @@ const Questions = [
            ]
     },
     {
-        q: "What is Blader X's past team name?",
+        q: "What is Khrome Ryugu's  team name?",
         a: [{text: "Team Persona", isCorrect: false},
             {text: "Team Yggdrassil", isCorrect: false},
             {text: "Team Pendragon", isCorrect: true},
             {text: "Team Zodiac", isCorrect: false},
+           ]
+    },
+    {
+        q: "What was Khrome Ryugu's past Bey before Cobalt Dragoon and his Drake Beys?",
+        a: [{text: "Sword Dran", isCorrect: true},
+            {text: "Dagger Dran", isCorrect: false},
+            {text: "Black Shell", isCorrect: false},
+            {text: "Crimson Garuda", isCorrect: false},
            ]
     },
     
