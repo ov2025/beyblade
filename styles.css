@@ -19,7 +19,8 @@ body {
     left: 0;
     width: 100%;
     z-index: 9999;    
-    background-image: url(https://www.japan2uk.com/cdn/shop/files/BEYBLADE_X_750x202.png?v=1729551014);
+    background-color: blue;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNDpGI-LEjdMylILV5c8N2SLQ9kVU6Xe5IDzPiOkTNNXD4io4jyN7dBVU7_eWGijsaSBY&usqp=CAU);
     box-shadow: 2px 2px 2px gray;
 }
 
@@ -57,22 +58,23 @@ section {
 }
 
 a {
-    color: white;
+    color: blue;
     text-decoration: none;
     font: bold 14px "Arial Black", Gadget, sans-serif;
 }
 
 a:link {
-    color:white;
+    color: blue;
 }
 
 a:visited {
-    color: white;
+    color: red;
 }
 
 a:hover {
-    background-color: rgb(26, 187, 171);
+    /* background-color: rgb(26, 187, 171); */
     font-size: 17px;
+    color: blue;
 }
 
 hr {
