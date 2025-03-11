@@ -8,7 +8,7 @@ html {
 body {
     width: 50%;
     margin: 0 auto;
-    background-color: rgba(14, 201, 218, 0.7);
+    background-color: rgba(14, 201, 218, 0.85);
     padding: 10px 50px 10px 100px;
     /* padding: TOP RIGHT BOTTOM LEFT */
 }
