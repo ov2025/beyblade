@@ -47,6 +47,14 @@ const Questions = [
             {text: "Crimson Garuda", isCorrect: false},
            ]
     },
+    {
+        q: "What was Multi's first Bey that was introduced?",
+        a: [{text: "Sword Dran", isCorrect: false},
+            {text: "Lance Knight", isCorrect: false},
+            {text: "Arrow Wizard", isCorrect: true},
+            {text: "Helm Knight", isCorrect: false},
+           ]
+    },
     
     // add more questions here....
 ]; 
